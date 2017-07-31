@@ -1,0 +1,2 @@
+# algoritmos
+Exercicios para estudo
